@@ -1,0 +1,4 @@
+Cantidad de Bitcoins: 20.0, Costo en USD: $1,034,256.7460
+Cantidad de Bitcoins: 55.0, Costo en USD: $2,844,062.6940
+Cantidad de Bitcoins: 61.0, Costo en USD: $3,154,324.0788
+Cantidad de Bitcoins: 24.0, Costo en USD: $1,241,045.5392
